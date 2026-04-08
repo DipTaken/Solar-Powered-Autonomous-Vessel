@@ -1,8 +1,14 @@
 # Solar-Powered Prototype Vessel
 
-![Vessel in Action](assets/placeholder_vessel_gif.gif)
+![Vessel in Action](assets/run2.gif)
 
 This project was developed for the **UBC Physics Olympics**, where I served as the **Team Lead** for a 7-person team. The objective was to design and construct an autonomous vessel powered exclusively by real-time solar energy to navigate a test pool at maximum speed.
+
+### Constraints
+The specifications can be found [here](documentation/Prebuild2-solar-powered-boat_Feb122025_AK.pdf).
+
+### Circuit Design
+The online simulation of the circuit can be found [here](http://falstad.com/circuit/circuitjs.html?ctz=CQAgjCAMB0mRYwBZoGYBMBOMBWSOkkAOVXVEPCiyCgUwFpEAoVJEAL1oDtaAne9FBCY06Boiiwkg1NADs5QZCZgAbILDoiNIqrZgMRELraDOPfhqE0Y8FevDoMxvY+0vTHbnwHhrkuzUNMCI2E0dncLNvSz8bALAmAHdwSDlBVSIjMDTBBVUoZONMAsyjIhKQfMKAB2LSrNT0kDKQcnicuC7lFIJ9SHQ2PRocwcLeJrzUAoqC6pHlAGcKQirplqQaeb8AMwBDABtF2iYJ4eN3c+2YJCYAYw2dS83UsbYcEHRoTHQcXSI8Kg5EhMHIiOg5AF4IUUrNXmw5DgNAM2D1JvD6hi0Tlmj9srksSo5JCcVMCjkcAU8XF5BD0OgQnI9HJMAMQpJ0plMKgBqpNPTQpDbF0wJgxeKJZKjMKiJC8PdMeE4aM2KjYNCvhg5IhEAoQmUwEL1RA0UQ1B5Fa5lBM4dU4eEFt0ima5utbetlAATYzmpXm6qCT20fYAVwOABciucVVUkYSAG4rfpjPprArxF4feIwHAsNjmHxfD4IeTIVBIs14zoDBhCz7q7qNrqhevFpjsVIvJWVKJeCwCaC5gAe4FFghIGlQkXLIFMbEWIYARgAdRY7AD2vFXBd4TDq1InqUg5Wc7SE1adKQPkR7VqKnRPyK7d+WVzd-o9Qn2RxO69SGyETYxSoGBpU+f9UCYP8PitWdIEwIws2gBBwCYIA).
 
 ## Performance in Action
 
@@ -14,7 +20,7 @@ The vessel was tested in a **189 cm** long pool. Under standard competition ligh
 
 The core innovation of this vessel is the **Voltage Delay Circuit**. Standard solar-to-motor connections often lack the torque to overcome initial water resistance. My design utilizes a "charge-and-release" mechanism to improve efficiency by **400%**.
 
-![Voltage Delay Circuit Video](media/IMG_2473.jpg)
+![Voltage Delay Circuit Video](media/circuitdemo.gif)
 
 ### How it Works
 * **Energy Collection**: Solar panels gather energy into a **5.3F (theory)** capacitor bank.
