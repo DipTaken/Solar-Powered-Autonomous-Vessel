@@ -1,6 +1,6 @@
 # Solar-Powered Prototype Vessel
 
-![Vessel in Action](assets/run2.gif)
+![Vessel in Action](media/run2.gif)
 
 This project was developed for the **UBC Physics Olympics**, where I served as the **Team Lead** for a 7-person team. The objective was to design and construct an autonomous vessel powered exclusively by real-time solar energy to navigate a test pool at maximum speed.
 
